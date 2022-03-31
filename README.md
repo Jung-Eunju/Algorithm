@@ -7,7 +7,9 @@
 https://www.acmicpc.net/step
 
 
-![image](https://user-images.githubusercontent.com/78429930/160992793-8a31ea97-b883-49fe-9049-309cf44afaaf.png)
+
+![image](https://user-images.githubusercontent.com/78429930/160993107-f2ead4df-a852-4d7a-b97d-15ef090d8ef5.png)
+
 
 
 

@@ -20,7 +20,11 @@ https://www.acmicpc.net/step
 이해할 수 있게 하기!
     
 ### ※복습필수※     
-##### 2577  https://www.acmicpc.net/problem/2577
-##### 3052  https://www.acmicpc.net/problem/3052
-##### 8958  https://www.acmicpc.net/problem/8958
+##### 2577  https://www.acmicpc.net/problem/2577  ①  
+##### 3052  https://www.acmicpc.net/problem/3052  ①  
+##### 8958  https://www.acmicpc.net/problem/8958  ①     
+##### 4673  https://www.acmicpc.net/problem/4673   
+##### 1065  https://www.acmicpc.net/problem/1065   
+
+
 #2884 #2525 #2439 #1110 #4344       

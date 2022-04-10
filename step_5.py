@@ -1,11 +1,11 @@
-#15596
+#15596 https://www.acmicpc.net/problem/15596
 def solve(a):
     sum=0
     for i in a:
         sum+=i
     return sum
 
-#4673 다시풀기!
+#4673 https://www.acmicpc.net/problem/2673 다시풀기!
 '''
 def d(n):
     print(n)
@@ -34,7 +34,7 @@ for j in range(1,1001):
         print(j)
 
 
-#1065 다시!
+#1065 https://www.acmicpc.net/problem/1065 다시!
 import sys
 n=int(sys.stdin.readline().rstrip())
 

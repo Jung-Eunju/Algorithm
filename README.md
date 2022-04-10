@@ -23,8 +23,8 @@ https://www.acmicpc.net/step
 ##### 2577  https://www.acmicpc.net/problem/2577  ①  
 ##### 3052  https://www.acmicpc.net/problem/3052  ①  
 ##### 8958  https://www.acmicpc.net/problem/8958  ①     
-##### 4673  https://www.acmicpc.net/problem/4673   
-##### 1065  https://www.acmicpc.net/problem/1065   
+##### 4673  https://www.acmicpc.net/problem/4673  ① 
+##### 1065  https://www.acmicpc.net/problem/1065  ① 
 
 
 #2884 #2525 #2439 #1110 #4344       

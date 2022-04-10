@@ -5,7 +5,7 @@ def solve(a):
         sum+=i
     return sum
 
-#4673 https://www.acmicpc.net/problem/2673 다시풀기!
+#4673 https://www.acmicpc.net/problem/4673 다시풀기!
 '''
 def d(n):
     print(n)

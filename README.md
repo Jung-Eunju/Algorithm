@@ -25,6 +25,11 @@ https://www.acmicpc.net/step
 ##### 8958  https://www.acmicpc.net/problem/8958  ①     
 ##### 4673  https://www.acmicpc.net/problem/4673  ① 
 ##### 1065  https://www.acmicpc.net/problem/1065  ① 
-
+##### 10809  https://www.acmicpc.net/problem/10809
+##### 1157  https://www.acmicpc.net/problem/1157
+##### 2908 https://www.acmicpc.net/problem/2908    
+##### 5622 https://www.acmicpc.net/problem/5622 
+##### 2941 https://www.acmicpc.net/problem/2941   
+##### 1316 https://www.acmicpc.net/problem/1316   
 
 #2884 #2525 #2439 #1110 #4344       

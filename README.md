@@ -19,7 +19,8 @@ https://www.acmicpc.net/step
 구글링 하게되면 주석으로 달아서  
 이해할 수 있게 하기!
     
-### ※복습필수※     
+### ※복습필수※  
+### Step1~6   
 ##### 2577  https://www.acmicpc.net/problem/2577  ①  
 ##### 3052  https://www.acmicpc.net/problem/3052  ①  
 ##### 8958  https://www.acmicpc.net/problem/8958  ①     
@@ -33,7 +34,7 @@ https://www.acmicpc.net/step
 ##### 1316 https://www.acmicpc.net/problem/1316  ①    
 
 ---------------------------------    
-step7  
+### Step7~     
 ##### 1712 https://www.acmicpc.net/problem/1712
 ##### 2292 https://www.acmicpc.net/problem/2292
 ##### 1193 https://www.acmicpc.net/problem/1193

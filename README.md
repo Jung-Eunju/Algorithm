@@ -32,4 +32,13 @@ https://www.acmicpc.net/step
 ##### 2941 https://www.acmicpc.net/problem/2941  ①     
 ##### 1316 https://www.acmicpc.net/problem/1316  ①    
 
+---------------------------------    
+step7  
+##### 1712 https://www.acmicpc.net/problem/1712
+##### 2292 https://www.acmicpc.net/problem/2292
+##### 1193 https://www.acmicpc.net/problem/1193
+##### 2869 https://www.acmicpc.net/problem/2869
+##### 2775 https://www.acmicpc.net/problem/2775
+##### 2939 https://www.acmicpc.net/problem/2839
+
 #2884 #2525 #2439 #1110 #4344       

@@ -35,7 +35,7 @@ https://www.acmicpc.net/step
 
 ---------------------------------    
 ### Step7~     
-##### 1712 https://www.acmicpc.net/problem/1712
+##### 1712 https://www.acmicpc.net/problem/1712  ①//
 ##### 2292 https://www.acmicpc.net/problem/2292
 ##### 1193 https://www.acmicpc.net/problem/1193
 ##### 2869 https://www.acmicpc.net/problem/2869

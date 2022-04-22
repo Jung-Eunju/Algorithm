@@ -41,7 +41,7 @@ https://www.acmicpc.net/step
 ##### 2869 https://www.acmicpc.net/problem/2869  ①
 ##### 2775 https://www.acmicpc.net/problem/2775  ①
 ##### 2939 https://www.acmicpc.net/problem/2839  ①
-　　   
+<br/>　   
 ##### 1978 https://www.acmicpc.net/problem/1978  ①  
 ##### 11653 https://www.acmicpc.net/problem/11653  ①  
 ##### 1929 https://www.acmicpc.net/problem/1929  ①  
